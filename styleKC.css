@@ -1,0 +1,138 @@
+body {
+    border: 1mm black solid;
+    display: block;
+    font-family: 'Roboto', sans-serif;
+}
+
+header {
+    background-color: #FBF37C;
+  /*  display: inline-grid;
+    grid-template-columns: 50% 50%;
+    grid-template-rows: 100px;
+    grid-column-gap: 10px; */
+    color: black;
+    background-size: cover;
+    height: 100px;
+    margin: 40px;
+}
+
+.h1 {
+    float: left;
+    line-height: 35px;
+    padding: 0 25px;
+    padding-right: 70px;
+    font-family: 'Crimson Text', serif;
+    font-size: 40px;
+}
+
+.h2 {
+   font-size: 28px;
+   margin-bottom: 0;
+   font-family: 'Crimson Text', serif;
+}
+
+li {
+    display: inline-block;
+    line-height: 100px;
+    padding: 0px 60px;
+    margin: 0;
+    font-size: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+li:hover {
+    background-color: #7F7F7F;
+    text-decoration: none;
+}
+
+.proiecteLI {
+    display: block;
+    line-height: normal;
+    padding: 5px;
+    font-size: 25px;
+}
+
+.proiecteLI:hover {
+    background-color: white;
+}
+
+article {
+    margin: 40px;
+}
+
+.despreMine {
+    width:700px;
+    display: inline-block;
+    font-size: 25px;
+    margin-top: 15px;
+}
+
+.pp {
+    float: right;
+    border-radius: 50%;
+    width: 500px;
+}
+
+footer {
+    text-align: center;
+    margin-top: 200px;
+}
+
+.heart {
+    color: red;
+}
+
+.logoHTML {
+    margin: 0 145px;
+}
+
+iframe {
+    width: 800px;
+    height: 400px;
+    margin: 0 45px;
+}
+
+/*h1 {
+    line-height: 100px;
+}
+
+.logo {
+    display:inline;
+    width: 100px;
+}
+
+li {
+    float: right;
+    margin-right: 10px;
+}
+
+/*.sus {
+    grid-column: 1 span 1;
+}
+
+.logo {
+    width:100px;
+    
+    float:left;
+}
+
+h1 {
+    line-height: 100px;
+    display: inline;
+}
+
+ul {
+    width: 1350
+}
+
+li {
+    display: inline;
+    grid-column: 2 span 1;
+    line-height: 60px;
+    padding: 20px;
+}*/
+
